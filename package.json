@@ -1,0 +1,11 @@
+{
+  "name": "case-mapper",
+  "version": "1.0.0",
+  "description": "Tiny dependentless JavaScript library for keeping response/payload case consistensy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/script.js"
+  },
+  "author": "Nikita Rychagov n.o.rychagov@gmail.com",
+  "license": "ISC"
+}
